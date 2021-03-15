@@ -1,4 +1,4 @@
-# Parkinson de bolso - Dataset
-<p>Trabalho de conclusão de curso do bacharel Ciência de Computação pela Universidade Regional de Blumenau - FURB.</p>
-<p>Repositório exclusivo para o armazenamento imagens de pacientes com a doença de Parkinson em um ciclo completo da marcha.</p>
-<p>As imagens foram tratadas sendo exlcuido o fundo e recordo a silhueta do paciente.</p>
+# Pocket Parkinson's - Dataset
+<p> Final work of the Bachelor of Science in Computer Science at the Regional University of Blumenau - FURB. </p>
+<p> Exclusive repository for storing images of patients with Parkinson's disease in a complete gait cycle. </p>
+<p> The images were treated with the background being excluded and I remember the patient's silhouette. </p>
